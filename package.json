@@ -10,7 +10,7 @@
     "dev": "nodemon index.js"
   },
   "dependencies": {
-    "mongoose": "^7.4.2"
+    "mongoose": "^8.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
